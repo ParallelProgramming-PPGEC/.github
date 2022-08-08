@@ -1,4 +1,4 @@
-# Programação Paralela
+# Programação Paralela 2022.2
 
 Sala de aula para o curso de programação paralela do PPGEC/UFPE.
 
